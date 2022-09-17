@@ -14,6 +14,12 @@ Given a specific data point:
 
 In Regression, the output of this specific data point would be the average/ mean of all it's K neighboring points while in Classification, the label of this specific data point would be the label of all it's K neighboring points.
 
+<img
+  src="dataset.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 ### Steps to completing the project
 1. Import the necessary modules/ packages needed for this project.
 2. import the iris dataset and plot using only 2 of the 4 features for visualization.

@@ -18,7 +18,7 @@ In Regression, the output of this specific data point would be the average/ mean
   src="dataset.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 
 ### Steps to completing the project
 1. Import the necessary modules/ packages needed for this project.
